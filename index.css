@@ -1,0 +1,55 @@
+section1 {
+    border: 1px blue;
+    width: 500%;
+    float: left;
+}
+
+.pirmas{
+
+    float: left;
+    margin: 5px;
+    width: 250px;
+    height: 350px;
+    background-color: deeppink;
+}
+
+.antras {
+    width: 200px;
+    margin: 5px;
+    height: 350px;
+    float: left;
+    background: pink;
+}
+
+.trecias {
+    width: 200px;
+    margin: 5px;
+    height: 350px;
+    float: left;
+    background: cyan;
+}
+.ketvirtas {
+
+    width: 200px;
+    margin: 5px;
+    height: 350px;
+    float: left;
+    background: olive;
+}
+
+a{
+
+        text-decoration: none;
+        border: 500px black;
+        padding: 5px;
+        background-color: red;
+        color: black;
+        float: left;
+        color; green
+
+
+}
+
+
+
+
